@@ -1,0 +1,4 @@
+m_proj/
+__pycache__/
+*.pyc
+!requirements.txt
